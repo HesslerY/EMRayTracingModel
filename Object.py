@@ -1,4 +1,4 @@
-class ObjectProperties:
+class Object:
 
     def __init__(self):
         self.propagationVelocity = 0.0
